@@ -60,6 +60,9 @@ An AI-powered interview preparation platform built using Next.js, Firebase, and 
 ![PDF Export](public/screenshots/report-actions.png)
 ---
 
+## Live Demo
+https://ai-mock-interview-umber-five.vercel.app
+
 ## Run Locally
 
 ```bash
