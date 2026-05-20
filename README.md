@@ -29,24 +29,35 @@ An AI-powered interview preparation platform built using Next.js, Firebase, and 
 
 ## Screenshots
 
-### Login Page
-![Login](public/screenshots/signin-page.png)
+### Home Page
+![Home Page](public/screenshots/Login.png)
+
+### Login Form
+![Login Form](public/screenshots/Login%20From.png)
 
 ### Interview Setup
 ![Interview Setup](public/screenshots/interview-setup.png)
 
-### Live Interview
-![Live Interview](public/screenshots/live-interview.png)
+### Live Interview Questions
+![Live Interview](public/screenshots/interview-questions.png)
 
-### Dashboard
-![Dashboard](public/screenshots/dashboard.png)
+### Dashboard with Dark Mode
+![Dashboard](public/screenshots/Dashboard-with-dark%20mode.png)
 
-### Interview Report
-![Interview Report](public/screenshots/interview-report.png)
+### Interview History
+![Interview History](public/screenshots/Interview-History.png)
 
-### PDF Export
+### Interview Performance Analytics
+![Analytics](public/screenshots/Interview%20Performance%20Analytic....png)
+
+### Final Interview Report
+![Final Report](public/screenshots/Final%20Interview%20Report.png)
+
+### Feedback Section
+![Feedback](public/screenshots/Feedback.png)
+
+### PDF Export Actions
 ![PDF Export](public/screenshots/report-actions.png)
-
 ---
 
 ## Run Locally
