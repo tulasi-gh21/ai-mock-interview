@@ -48,8 +48,7 @@ An AI-powered interview preparation platform built using Next.js, Firebase, and 
 ![Interview History](public/screenshots/Interview-History.png)
 
 ### Interview Performance Analytics
-![Analytics](public/screenshots/Interview%20Performance%20Analytic....png)
-
+![Analytics](public/screenshots/analytics-chart.png)
 ### Final Interview Report
 ![Final Report](public/screenshots/Final%20Interview%20Report.png)
 
